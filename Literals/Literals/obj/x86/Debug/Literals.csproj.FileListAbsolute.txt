@@ -1,0 +1,1 @@
+/home/alex/Projects/Literals/Literals/obj/x86/Debug/Literals.csprojAssemblyReference.cache
